@@ -7,6 +7,9 @@
   },
   "scripts":{
     "predeploy":"npm run build",
-    "deploy":"gh-pages -d build"
+    "deploy":"gh-pages -d build",
+    "built":"react-scripts built",
+    "test":"react-scripts built",
+    "eject":"react-scripts eject"
 }
 }
