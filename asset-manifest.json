@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BOOK-MERN/static/css/main.e8b0ccf9.css",
+    "main.js": "/BOOK-MERN/static/js/main.b8d20812.js",
+    "static/media/bk.png": "/BOOK-MERN/static/media/bk.388e50c6059181413577.png",
+    "index.html": "/BOOK-MERN/index.html",
+    "main.e8b0ccf9.css.map": "/BOOK-MERN/static/css/main.e8b0ccf9.css.map",
+    "main.b8d20812.js.map": "/BOOK-MERN/static/js/main.b8d20812.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8b0ccf9.css",
+    "static/js/main.b8d20812.js"
+  ]
+}
