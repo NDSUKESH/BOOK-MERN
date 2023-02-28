@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "mongoose": "^6.10.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
